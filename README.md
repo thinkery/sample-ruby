@@ -14,7 +14,7 @@ $ ruby -rubygems add-thing.rb
 Requirements
 ------------
 
-To use the API, you must create your API keys at http://thinkery.me/api/apps/
+To use the API, you must create your API keys at https://thinkery.me/api/apps/
 
 Also the [oauth2](https://github.com/intridea/oauth2) library is being used. You can install it like this:
 ```
